@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<svg width="640" height="180" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <!-- Created with SVG-edit - http://svg-edit.googlecode.com/ -->
+ <defs>
+  <radialGradient spreadMethod="pad" id="svg_8">
+   <stop offset="0" stop-color="#000000"/>
+   <stop offset="1" stop-color="#ffffff"/>
+  </radialGradient>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <text font-style="italic" font-weight="bold" stroke="url(#svg_8)" transform="matrix(4.534136772155762,0,0,4.038461685180664,-299.1867661178112,-218.7692413330078) " xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" id="svg_1" y="83.342857" x="95.208149" stroke-width="0" fill="#ffff00">J</text>
+  <text font-style="italic" id="svg_2" font-weight="bold" stroke="#000000" transform="matrix(4.534136772155762,0,0,4.038461685180664,-299.1867661178112,-218.7692413330078) " xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" y="83.862723" x="108.717236" stroke-width="0" fill="#007fff">M</text>
+  <text font-style="italic" id="svg_3" font-weight="bold" stroke="#000000" transform="matrix(4.534136772155762,0,0,4.038461685180664,-299.1867661178112,-218.7692413330078) " xml:space="preserve" text-anchor="middle" font-family="Cursive" font-size="24" y="83.862723" x="125.037873" stroke-width="0" fill="#ff0000">C</text>
+  <text id="svg_10" font-style="italic" font-weight="bold" stroke="#000000" transform="matrix(4.534136772155762,0,0,4.038461685180664,-299.1867661178112,-218.7692413330078) " xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="83.311584" x="80.101933" stroke-width="0" fill="#7f7f7f">&lt;</text>
+  <text id="svg_13" font-style="italic" font-weight="bold" stroke="#000000" transform="rotate(179.040283203125 346.6642456054687,82.00150299072267) matrix(4.534136772155762,0,0,4.038461685180664,-299.1867661178112,-218.7692413330078) " xml:space="preserve" text-anchor="middle" font-family="Sans-serif" font-size="24" y="82.873717" x="142.450609" stroke-width="0" fill="#7f7f7f">&lt;</text>
+ </g>
+</svg>
